@@ -1,0 +1,117 @@
+[
+  {
+    "id": "blog-101",
+    "title": "Building a Modern Dashboard with React",
+    "author": "Piyush",
+    "content": "React has revolutionized the way we build user interfaces. In this post, I share my experience building a dynamic dashboard using React hooks and context API. The modularity and reusability of components made the process seamless.",
+    "tags": [
+      "react",
+      "ui"
+    ],
+    "createdAt": "2025-09-29T14:23:11",
+    "updatedAt": "2025-09-30T09:15:42"
+  },
+  {
+    "id": "blog-102",
+    "title": "Responsive Layouts: CSS Grid and Flexbox Tips",
+    "author": "Anita",
+    "content": "Designing with CSS can be both fun and challenging. I recently explored CSS Grid and Flexbox to create responsive layouts. Here are some tips and tricks I learned along the way to make your designs stand out.",
+    "tags": [
+      "css",
+      "design"
+    ],
+    "createdAt": "2025-09-30T08:10:05",
+    "updatedAt": "2025-09-30T18:45:29"
+  },
+  {
+    "id": "blog-103",
+    "title": "Why Testing Matters: Tools and Strategies",
+    "author": "Ramesh",
+    "content": "Testing is a crucial part of software development. In this article, I discuss the importance of unit and integration tests, and how tools like Jest and React Testing Library can help ensure code reliability.",
+    "tags": [
+      "testing"
+    ],
+    "createdAt": "2025-09-28T16:55:22",
+    "updatedAt": "2025-09-30T21:12:10"
+  },
+  {
+    "id": "blog-104",
+    "title": "Exploring New Features in JavaScript ES2025",
+    "author": "Sara",
+    "content": "JavaScript ES2025 brings several new features that make coding easier and more efficient. I highlight some of my favorites, including optional chaining and nullish coalescing, with practical examples.",
+    "tags": [
+      "javascript"
+    ],
+    "createdAt": "2025-09-30T13:30:00",
+    "updatedAt": "2025-10-01T08:01:55"
+  },
+  {
+    "id": "blog-105",
+    "title": "How User Feedback Shapes Product Features",
+    "author": "Dev",
+    "content": "Product management is about understanding user needs and delivering value. In this post, I share how user feedback shaped the latest features in our app and improved the overall user experience.",
+    "tags": [
+      "product",
+      "ux"
+    ],
+    "createdAt": "2025-09-29T19:44:33",
+    "updatedAt": "2025-10-01T09:00:00"
+  },
+  {
+    "id": "blog-106",
+    "title": "Optimizing Web Performance: Real-World Techniques",
+    "author": "Priya",
+    "content": "Web performance optimization is key to user retention. I discuss techniques like lazy loading, code splitting, and image optimization that helped reduce our app’s load time by 40%.",
+    "tags": [
+      "performance"
+    ],
+    "createdAt": "2025-09-30T17:20:10",
+    "updatedAt": "2025-10-01T10:30:45"
+  },
+  {
+    "id": "blog-107",
+    "title": "Creating a Scalable React Component Library",
+    "author": "Piyush",
+    "content": "Building reusable UI components in React not only saves time but also ensures consistency across your application. Here’s how I structured our component library for scalability and maintainability.",
+    "tags": [
+      "react",
+      "ui"
+    ],
+    "createdAt": "2025-09-30T20:05:55",
+    "updatedAt": "2025-10-01T11:12:30"
+  },
+  {
+    "id": "blog-108",
+    "title": "The Subtle Art of UI/UX Design",
+    "author": "Anita",
+    "content": "Good design is invisible. I break down the principles of effective UI/UX design and share examples of how small changes in color and spacing can dramatically improve user satisfaction.",
+    "tags": [
+      "css",
+      "design"
+    ],
+    "createdAt": "2025-09-29T22:40:00",
+    "updatedAt": "2025-10-01T12:00:00"
+  },
+  {
+    "id": "blog-109",
+    "title": "Continuous Integration: Automating Your Tests",
+    "author": "Ramesh",
+    "content": "Automated testing has saved our team countless hours. In this post, I explain how to set up continuous integration pipelines that run tests on every commit, catching bugs before they reach production.",
+    "tags": [
+      "testing"
+    ],
+    "createdAt": "2025-09-30T23:59:59",
+    "updatedAt": "2025-10-01T13:45:15"
+  },
+  {
+    "id": "blog-110",
+    "title": "Mastering Async/Await in JavaScript",
+    "author": "Sara",
+    "content": "Async/await in JavaScript makes handling asynchronous code much cleaner. I walk through real-world scenarios where async functions simplify API calls and error handling in modern web apps.",
+    "tags": [
+      "javascript"
+    ],
+    "createdAt": "2025-10-01T07:30:00",
+    "updatedAt": "2025-10-01T14:00:00"
+  }
+]
