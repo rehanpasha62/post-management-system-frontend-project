@@ -34,4 +34,4 @@ Open `http://localhost:5173` (vite default) in your browser.
 - Improve styling (Tailwind), implement tag filters and sorting.
 
 
-[Watch Demo Video](assets/demo.mp4)
+[Watch Demo Video](PMSdemo.mp4)
